@@ -7340,7 +7340,9 @@
   {
     "guid": "jid0-9XfBwUWnvPx4wWsfBWMCm4Jj69E@jetpack",
     "testing": [],
-    "bugs": [],
+    "bugs": [
+      "1043081"
+    ],
     "users": 182766
   },
   {
