@@ -1,31 +1,14 @@
-.addon-guid {
-    font-size: 0.8em;
+.container {
+    vertical-align: middle;
+    padding-top: 5vh;
+    font-size: 5em;
+    line-height: 2.3em;
+}
+
+.muted {
     color: grey;
-}
-
-.label {
-    padding: 0.5em 1.5em 0.5em 1.5em;
-}
-
-.label-wrapper {
-    padding-top: 1.2em !important;
-}
-
-.label a {
-    color: white;
-}
-
-.anchor, .anchor:visited {
-    color: lightgrey;
-}
-
-div.callout {
-	font-size: 1.3em;
- 	padding: 1em 2em 1em 2em;
-	margin-bottom: 2em;
- 	background-color: #052659;
-	border-bottom: 1px solid grey;
- 	color: white;
+    font-size: 0.5em;
+    line-height: 1.5em;
 }
 
 @font-face {
@@ -35,4 +18,3 @@ div.callout {
   font-weight: 200;
   font-style: normal;
 }
-
